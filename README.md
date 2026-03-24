@@ -11,9 +11,9 @@
 
 ## What I Do
 
-I build data infrastructure that engineering and business teams actually rely on — fault-tolerant pipelines, real-time streaming systems, and AI-powered automation across AWS and Azure.
+I build data infrastructure that engineering and business teams actually rely on - fault-tolerant pipelines, real-time streaming systems, and AI-powered automation across AWS and Azure.
 
-Currently exploring where **Agentic AI meets Data Engineering** — combining LLMs with production ETL systems to automate debugging, observability, and root-cause analysis.
+Currently exploring where **Agentic AI meets Data Engineering** - combining LLMs with production ETL systems to automate debugging, observability, and root-cause analysis.
 
 ---
 
@@ -21,7 +21,7 @@ Currently exploring where **Agentic AI meets Data Engineering** — combining LL
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [🤖 Agentic AI ETL Debugging Pipeline](https://github.com/saivivek55) | Python · AWS Bedrock · Lambda · S3 · PostgreSQL | Multi-agent AI layer for ETL failure classification & RCA — 70% reduction in debug time |
+| [🤖 Agentic AI ETL Debugging Pipeline](https://github.com/saivivek55) | Python · AWS Bedrock · Lambda · S3 · PostgreSQL | Multi-agent AI layer for ETL failure classification & RCA - 70% reduction in debug time |
 | [🏅 Serverless Medallion Data Pipeline](https://github.com/saivivek55) | Confluent Kafka · AWS Glue · Redshift · Athena · QuickSight | Bronze-to-Gold architecture for real-time crypto analytics on 30K+ daily records |
 | [🔍 Defect Detection with Computer Vision](https://github.com/saivivek55/Detecting-and-Classifying-Defects-In-Chips-With-ComputerVision) | YOLOv8 · Faster R-CNN · ResNet · AWS · Flask | Ensemble CV pipeline achieving 96.4% multi-class precision on PCB/wafer images |
 | [🏦 Real-Time Fraud Detection](https://github.com/saivivek55/Real-Time-Smart-Bank-Data-Streaming-Capture_BigData) | Kafka · PySpark · MongoDB · Kibana · Flask | Streaming 1M+ transactions with 99% anomaly detection & 30% false positive reduction |
@@ -66,16 +66,6 @@ Currently exploring where **Agentic AI meets Data Engineering** — combining LL
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
----
-
-## Certifications
-
-- 🏆 Google Data Analytics Specialization
-- 🤖 Generative AI Fundamentals — Databricks
-- 📊 Power BI Data Modeling with DAX
-- 🧠 The Nuts and Bolts of Machine Learning — Google
-- 🗄️ SQL Intermediate — HackerRank
 
 ---
 
