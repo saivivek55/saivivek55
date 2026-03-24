@@ -21,8 +21,8 @@ Currently exploring where **Agentic AI meets Data Engineering** - combining LLMs
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [🤖 Agentic AI ETL Debugging Pipeline](https://github.com/saivivek55) | Python · AWS Bedrock · Lambda · S3 · PostgreSQL | Multi-agent AI layer for ETL failure classification & RCA - 70% reduction in debug time |
-| [🏅 Serverless Medallion Data Pipeline](https://github.com/saivivek55) | Confluent Kafka · AWS Glue · Redshift · Athena · QuickSight | Bronze-to-Gold architecture for real-time crypto analytics on 30K+ daily records |
+| [🤖 Agentic AI ETL Debugging Pipeline](https://github.com/saivivek55/Agentic-AI-ETL-Debugging-Pipeline) | Python · AWS Bedrock · Lambda · S3 · PostgreSQL | Multi-agent AI layer for ETL failure classification & RCA - 70% reduction in debug time |
+| [🏅 Serverless Medallion Data Pipeline](https://github.com/saivivek55/Serverless-Medallion-Architecture-Pipeline-for-Crypto-Analytics_AWS) | Confluent Kafka · AWS Glue · Redshift · Athena · QuickSight | Bronze-to-Gold architecture for real-time crypto analytics on 30K+ daily records |
 | [🔍 Defect Detection with Computer Vision](https://github.com/saivivek55/Detecting-and-Classifying-Defects-In-Chips-With-ComputerVision) | YOLOv8 · Faster R-CNN · ResNet · AWS · Flask | Ensemble CV pipeline achieving 96.4% multi-class precision on PCB/wafer images |
 | [🏦 Real-Time Fraud Detection](https://github.com/saivivek55/Real-Time-Smart-Bank-Data-Streaming-Capture_BigData) | Kafka · PySpark · MongoDB · Kibana · Flask | Streaming 1M+ transactions with 99% anomaly detection & 30% false positive reduction |
 | [☁️ E-Commerce Pipeline on Azure](https://github.com/saivivek55/End-to-End-E-commerce-Product-Data-Exploration-System-on-Microsoft-Azure) | Azure Data Factory · Databricks · Synapse · Power BI | End-to-end pipeline analyzing 1.14M+ product ratings with star schema modeling |
